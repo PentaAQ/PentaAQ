@@ -10,7 +10,7 @@ Systems Engineering student (mid-career).Currently delving into front-end and ba
 🤝 Interested in collaborating on open source projects.
 ❓ Technical questions? I'm happy to help.
 
-Besides technology, I enjoy sports ⚽, video games 🎮, music 🎵, and reading 📚.
+Besides technology, I enjoy sports ⚽, video games 🎮, music 🎵, and reading 📚.<br>
 📫 Contact: <a href="eddylxz@gmail.com">eddylxz@gmail.com</a>
 
 ## My Skills Include
