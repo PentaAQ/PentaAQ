@@ -52,7 +52,7 @@ Besides technology, I enjoy sports ⚽, video games 🎮, music 🎵, and readin
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Dev_Alexiz👻&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/PentaAQ)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Dev_Alexiz👻&theme=material-palenight)](https://github.com/PentaAQ)
+[![](https://github-readme-stats.vercel.app/api?username=PentaAQ&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/PentaAQ)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=PentaAQ&theme=material-palenight)](https://github.com/PentaAQ)
 </div>
 
