@@ -11,7 +11,7 @@ Estudiante de Ingeniería de Sistemas (a mitad de carrera). Actualmente profundi
 ❓ ¿Dudas técnicas? Con gusto puedo ayudar.
 
 Además de la tecnología, disfruto del deporte ⚽, los videojuegos 🎮, la música 🎵 y la lectura 📚.<br>
-📫 Contacto: <a href="mailto:eddylxz@gmail.com">eddylxz@gmail.com</a>
+📫 Contacto: <a href="mailto:alexizdev25@gmail.com">eddylxz@gmail.com</a>
 
 ## Mis habilidades incluyen
 
